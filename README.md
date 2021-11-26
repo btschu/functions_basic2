@@ -32,12 +32,12 @@ Example: length_and_value(6,2) should return [2,2,2,2,2,2]
 
 # Tasks
 
-Countdown
+- [X] Countdown
 
-Print and Return
+- [X] Print and Return
 
-First Plus Length
+- [X] First Plus Length
 
-Values Greater than Second
+- [X] Values Greater than Second
 
-This Length, That Value
+- [X] This Length, That Value
